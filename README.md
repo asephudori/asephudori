@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asep Hudori</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-<p align="left"> <a href="https://twitter.com/asdori_" target="blank"><img src="https://img.shields.io/twitter/follow/asdori_?logo=twitter&style=for-the-badge" alt="asdori_" /></a> </p>
-
 - 🌱 I’m currently learning **Backend JavaScript at Binar Academy**
 
 - 📫 How to reach me **asep.hudori532@gmail.com**
