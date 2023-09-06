@@ -13,10 +13,10 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=asephudori&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+    
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asephudori&show_icons=true&theme=gruvbox&locale=en" alt="asephudori" /></p>
+    
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asephudori&theme=dark" alt="asephudori" /></p>
 
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=asephudori&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=vijlwgs2azt0mbrsxygee2q4u)](https://open.spotify.com/user/vijlwgs2azt0mbrsxygee2q4u)
+  
