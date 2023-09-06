@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asep Hudori</h1>
-<h3 align="center">A Software Engineering Student</h3>
-<p align="center">----------------------------------------------------</p>
 
 - 🌱 I’m currently learning **Backend JavaScript at Binar Academy**
 
