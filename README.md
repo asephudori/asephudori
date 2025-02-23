@@ -1,2 +1,3 @@
-
-![wallhaven-yxq6gk_1366x768](https://github.com/user-attachments/assets/4ee6c1cc-dcbf-44be-ab05-4f4e9645dcbc)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/3f8bc788-7e88-4118-b60c-561db49601f8" alt="kaela-カエラ">
+</div>
